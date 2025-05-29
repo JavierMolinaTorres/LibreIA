@@ -13,21 +13,32 @@ Synapse memory: learns, specializes, and selects strategies based on multiple cr
 
 🔍 Differences with Conventional AI
 
-Feature	LibreIA	                                       
-Compute Engine:	CPU + logical self-structuring	      
-Core Model:	Cells + loop + synapse memory	             
-Task Definition:	YAML input/output universe	       
-Thought Generation:	Autonomous	                       
-Error Handling:	No exceptions	                        
+Feature	LibreIA	 
+
+Compute Engine:	CPU + logical self-structuring	  
+
+Core Model:	Cells + loop + synapse memory	  
+
+Task Definition:	YAML input/output universe	
+
+Thought Generation:	Autonomous	        
+
+Error Handling:	No exceptions	  
+
 Lifecycle:	Never stops	                             
 
 Conventional AI
 
 Compute Engine:	GPU/TPU + matrix ops
+
 Core Model:	Neural networks
+
 Task Definition: Prompt/API
+
 Thought Generation:On-demand
+
 Error Handling: Needs handlers
+
 Lifecycle:Idle without input
 
 📈 Applications
