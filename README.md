@@ -25,7 +25,9 @@ Thought Generation:	Autonomous
 
 Error Handling:	No exceptions	  
 
-Lifecycle:	Never stops	                             
+Lifecycle:	Never stops
+
+--------------------
 
 Conventional AI
 
