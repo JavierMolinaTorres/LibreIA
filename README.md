@@ -61,4 +61,4 @@ Synapse storage (PostgreSQL and others)
 
 ⚡ Contact & Collaboration
 
-If you're interested in collaborating, funding, or contributing, reach out via GitHub or email: [javier.molina@csic.es].
+If you're interested in collaborating, funding, or contributing, reach out via GitHub or email: [xabiep695@gmail.com].
